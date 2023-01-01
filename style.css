@@ -1,0 +1,36 @@
+body{
+    background: linear-gradient(120.2deg, #E74C3C 0%, #8E44AD 62.77%);
+    background-repeat: no-repeat;
+    height: 100vh;
+    width: 100vw;
+}
+
+.container-login{
+    width: 560px;
+    margin: calc(50vh - 300px);
+}
+
+.headings{
+    height: 150px;
+    background: linear-gradient(274.04deg, #3498DB 0%, #9B59B6 98.54%);
+    border-top-right-radius: 30px;
+    border-top-left-radius: 30px;
+}
+.headings h1{
+    color: white;
+    margin-top: -30px;
+}
+.form{
+    background-color: #FEFEFE;
+    border-radius: 30px;
+    margin-top: -50px;
+}
+.btn{
+    border-radius: 30px;
+}
+p{
+    text-align: center;
+}
+a{
+    color: black;
+}
